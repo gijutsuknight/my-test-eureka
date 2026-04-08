@@ -1,5 +1,7 @@
 server:
   port: 8120
+  servlet:
+    context-path: /eureka-client-3
 spring:
   application:
     name: spring-cloud-eureka-client
